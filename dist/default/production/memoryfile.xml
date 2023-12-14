@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/RPR_LCD_I2C.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>24576</length>
+      <used>436</used>
+      <free>24140</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>269184</length>
+      <used>14457</used>
+      <free>254727</free>
+    </memory>
+  </executable>
+</project>
