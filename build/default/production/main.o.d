@@ -12,7 +12,9 @@ build/default/production/main.o: main.c mcc_generated_files/mcc.h \
  mcc_generated_files/uart1.h I2C_LCD/LCD_I2C.h I2C_LCD/LCD_I2C_Cfg.h \
  mcc_generated_files/drivers/i2c_simple_master.h \
  I2C_LCD/../stick/SystemTick.h I2C_LCD/../stick/SystemTick_Cfg.h \
- mcc_generated_files/tmr1.h stick/SystemTick.h
+ mcc_generated_files/tmr1.h stick/SystemTick.h \
+ I2C_RPR0521RS/RPR0521RS_I2C.h I2C_RPR0521RS/RPR0521RS_I2C_Cfg.h \
+ I2C_RPR0521RS/../stick/SystemTick.h
 
 mcc_generated_files/mcc.h:
 
@@ -63,3 +65,9 @@ I2C_LCD/../stick/SystemTick_Cfg.h:
 mcc_generated_files/tmr1.h:
 
 stick/SystemTick.h:
+
+I2C_RPR0521RS/RPR0521RS_I2C.h:
+
+I2C_RPR0521RS/RPR0521RS_I2C_Cfg.h:
+
+I2C_RPR0521RS/../stick/SystemTick.h:

@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/intern12/RPR_LCD_I2C.X",
-      "program": "e:/intern12/RPR_LCD_I2C.X/build/Debug/outDebug",
+      "cwd": "d:/RPR_LCD_I2C.X",
+      "program": "d:/RPR_LCD_I2C.X/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
